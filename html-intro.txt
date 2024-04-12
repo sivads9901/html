@@ -1,0 +1,112 @@
+what is HTML ?
+HTML - Hyper Text Markup Language.HTML is used to develop Skeleton/Structure of the Page.HTML uses tags for developing.
+HTML strted from GML => SGML => HTML.stsrted in 1992.
+Current version is HTML5 
+Download and install  vs Code
+create an empty folder and open in vs code.
+Shortcuts  used in vs code are called 
+
+HTML tags will have open or close.
+<tagname> ----open tag.
+</tagname> ---- close tag.
+whole HTML Code will be between html open and html close tags.
+
+
+
+write a basic HTML to display your information using 6 headings(h1-name,h2-profession,h3-skills,h4-education,h5-hobbies,h6-contact).
+
+
+indentation
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>SIVA</h1>
+    <h2>Software Developer</h2>
+    <h3>c-language,java,sql</h3>
+    <h4>B.sc (mpcs)</h4>
+    <h5>watching movies, reading books,playing games</h5>
+    <h6>8341663237</h6>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non dolore natus, quibusdam, tempore in quis cupiditate, qui debitis ipsum eum rerum optio hic asperiores ab libero eligendi explicabo! Quis labore rerum non neque ad odit quae modi error dolore praesentium. Optio deserunt delectus rem, voluptatibus perspiciatis ab dolor modi illum.</p>
+    
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>siva</h1>
+    <h2>siva</h2>
+    <h3>siva</h3>
+    <h3>siva</h3>
+    <h4>siva</h4>
+    <h5>siva</h5>
+    <h6>siva</h6>
+</body>
+</html>
+
+
+
+4/4/2024
+
+HTML= Hyper Text Markup Language => CERN 1992
+skeleton of the wb page is done HtML 
+To write html, you need a text editor => VS code.
+
+
+the we given to editor for more readability.
+A page should have 
+Headings : headings represent data in bold .they vary from h1 to h2 in sizes .
+
+it is recommended dont use more then h1 in one webpage .
+
+the  in html is <!-- this is basic html page-->
+
+b-> used to make text bold 
+strong -> also used  to make the text bold but better SEO,
+i--> used to make text italic
+em--> used to make 
+ol ---> list item.
+
+
+ website freecodecamp to work.
+
+
+ Lists:
+ lists are used to list of certain items.
+ HTML contains 3 types of Lists.
+ 1.Ordered List: list of items where order is important
+
+ 1.rohit
+ 2.raj
+ 3.sekhar
+
+ 2.unordered list:
+  Skills are
+  > skills-1:
+  not maintain proper order.
+
+  3.Description list :
+  List of events or items mentioned with reference
+  Ex : a companys growth 
+  1995 - 2000:
+  company estiblished
+   2001 - 2010
+   company went well
+   2011 - 2023
+   company got sucess  
+                                                                                                                                           th---->                                                                                                
+header
+
